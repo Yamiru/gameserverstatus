@@ -18,9 +18,9 @@ https://avalonia.sk
 ## Server Status
 
  - [Minecraft](https://github.com/Yamiru/gameserverstatus/blob/main/minecraft-status.php)
- - [No More Room In Hell /nmrih/](https://github.com/Yamiru/gameserverstatus/blob/main/nmrih-status)
- - [Vein status](https://github.com/Yamiru/gameserverstatus/blob/main/vein-status)
- - [TeamSpeak3 /ts3/](https://github.com/Yamiru/gameserverstatus/blob/main/teamspeak3-status)
+ - [No More Room In Hell /nmrih/](https://github.com/Yamiru/gameserverstatus/blob/main/nmrih-status.php)
+ - [Vein status](https://github.com/Yamiru/gameserverstatus/blob/main/vein-status.php)
+ - [TeamSpeak3 /ts3/](https://github.com/Yamiru/gameserverstatus/blob/main/teamspeak3-status.php)
 
 
 ## Screenshot
