@@ -1,0 +1,2 @@
+# gameserverstatus
+Game server status
